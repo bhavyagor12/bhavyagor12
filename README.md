@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently building growth platforms for banks with Niti.ai<br>👯 I’m looking to collaborate on Web development projects and hackathons<br>🤝 I’m looking for help with Open source projects<br>🌱 I’m currently learning blockchain and devops<br>💬 Ask me about full stack web development <br>⚡ Fun fact I am a quick learner and love to work in quick pace startups
+🔭 I’m currently building growth platforms for banks with Niti.Ai<br>👯 I’m looking to collaborate on Web development projects and hackathons<br>🤝 I’m looking for help with Open source projects<br>🌱 I’m currently learning blockchain and devops<br>💬 Ask me about full stack web development <br>⚡ Fun fact I am a quick learner and love to work in quick pace startups
 
 
 ## 🌐 Socials:
