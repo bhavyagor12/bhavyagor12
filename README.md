@@ -1,6 +1,6 @@
 # 💫 About Me:
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&duration=3000&pause=1507&color=0080FB&center=true&width=480&lines=%3C+Building+and+learning+while+I+explore+%3E;">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0080FB&width=435&lines=Learning+--%3E+Building+--%3E+Shipping)](https://git.io/typing-svg)
 </p>
 🔭 I’m currently building growth platforms with <a href="https://www.niti.ai/">Niti.Ai</a><br>👯 I’m looking to collaborate on Web development projects and hackathons<br>🤝 I’m looking to help with Open source projects<br>🌱 I’m currently actively working on blockchain projects <br>💬 Ask me about full stack web development and web3 <br>⚡ Fun fact I am a quick learner and love to work in quick pace startups
 
